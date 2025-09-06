@@ -1,6 +1,6 @@
 # 📚 NotesWise  
 
-![Banner](assets/noteswise-banner.png)
+
 
 ---
 
